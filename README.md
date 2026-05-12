@@ -20,7 +20,6 @@ The analysis spans:
 The project is designed for:
 
 * Researchers
-* Policy Analysts
 * Students
 * Data Analysts
 * Business Intelligence Professionals
