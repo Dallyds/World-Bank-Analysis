@@ -148,7 +148,7 @@ Interactive Power BI dashboards provide:
 
 ## 📁 Project Structure
 
-world-bank-analytics/
+world-bank-analytics\
 │
 ├── data\
 │   ├── raw\
