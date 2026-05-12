@@ -89,13 +89,14 @@ Raw global datasets often contain missing values, inconsistencies, and duplicate
 * Dashboards/
 ## **Global economic overview dashboard**
 <img width="1331" height="751" alt="image" src="https://github.com/user-attachments/assets/343bbe72-0adc-4952-b43c-c91219993ee7" />
----
+---\
+
 ## **Human developement and environment**
 <img width="1331" height="752" alt="image" src="https://github.com/user-attachments/assets/3f1b2dd3-f577-4408-a905-1c1a5dc5af63" />
----
+---\
 ## **Advanced analytics and trends**
 <img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/6968e708-99de-4559-bfa8-378f0d1552ab" />
----
+---\
 
 ### Data Sources 
 
