@@ -87,11 +87,19 @@ Raw global datasets often contain missing values, inconsistencies, and duplicate
 ### Visualization & Reporting
 
 * Power BI
+* Dashboards
+##**Global economic overview dashboard**
+<img width="1331" height="751" alt="image" src="https://github.com/user-attachments/assets/343bbe72-0adc-4952-b43c-c91219993ee7" />
+##**Human developement and environment**
+<img width="1331" height="752" alt="image" src="https://github.com/user-attachments/assets/3f1b2dd3-f577-4408-a905-1c1a5dc5af63" />
+##**Advanced analytics and trends**
+<img width="1332" height="747" alt="image" src="https://github.com/user-attachments/assets/6968e708-99de-4559-bfa8-378f0d1552ab" />
 
-### Data Sources & APIs
 
-* World Bank API
-* Our World in Data
+### Data Sources 
+
+* World Bank Dataset link
+*  https://databank.worldbank.org/source/world-development-indicators 
 
 ---
 
@@ -130,7 +138,6 @@ Interactive Power BI dashboards provide:
 
 * Dynamic filtering by country and region
 * Income-group comparisons
-* Historical trend visualizations
 * KPI summaries
 * Interactive charts and maps
 
@@ -138,33 +145,18 @@ Interactive Power BI dashboards provide:
 
 ## 📁 Project Structure
 
-```bash
 world-bank-analytics/
 │
 ├── data/
 │   ├── raw/
 │   ├── cleaned/
 │
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── exploratory_analysis.ipynb
-│   ├── visualization.ipynb
-│
 ├── dashboards/
 │   ├── powerbi_dashboard.pbix
+|    ├── dashboard_screenshots/
 │
 ├── reports/
 │   ├── final_report.pdf
-│
-├── images/
-│   ├── charts/
-│   ├── dashboard_screenshots/
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
 ---
 
 ## 🚀 Getting Started
@@ -175,23 +167,6 @@ world-bank-analytics/
 git clone https://github.com/your-username/world-bank-analytics.git
 cd world-bank-analytics
 ```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Analysis
-
-```bash
-jupyter notebook
-```
-
-Open the notebooks folder and execute the analysis files step by step.
-
----
-
 ## 📌 Sample Insights
 
 Some key observations from the analysis include:
@@ -208,43 +183,11 @@ Some key observations from the analysis include:
 Potential extensions for the project:
 
 * Machine learning forecasting models
-* Real-time API integration
 * Advanced predictive analytics
 * Interactive web dashboards
 * Climate impact forecasting
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-If you would like to improve this project:
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Submit a pull request
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
+Dally DS
 
-Developed as part of a Global Development & Data Analytics project using World Bank datasets and modern business intelligence tools.
-
----
-
-## ⭐ Acknowledgements
-
-Special thanks to:
-
-* World Bank Open Data
-* Our World in Data
-* Open-source Python community
-* Power BI ecosystem
