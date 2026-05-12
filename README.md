@@ -154,12 +154,12 @@ world-bank-analytics/
 │   ├── raw\
 │   ├── cleaned\
 │
-├── dashboards/
-│   ├── powerbi_dashboard.pbix/
-|    ├── dashboard_screenshots/
+├── dashboards\
+│   ├── powerbi_dashboard.pbix\
+|    ├── dashboard_screenshots\
 │
-├── reports/
-│   ├── final_report.pdf/
+├── reports\
+│   ├── final_report.pdf\
 ---
 ## 📌 Sample Insights
 
